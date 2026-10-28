@@ -11,8 +11,7 @@ const MASCOTS = {
   koko: {
     id: 'koko',
     name: 'Eniza Octaviani',
-    shortName: 'eniza
-    '
+    shortName: 'Eniza',
     title: 'Penasihat Bijak & Analitis',
     emoji: '🦉',
     color: '#6366f1',
